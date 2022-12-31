@@ -1,2 +1,2 @@
-# fast_api
-Billy's fast api code
+# fastapi
+fast api project
